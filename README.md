@@ -1,2 +1,2 @@
-# demo_repo
+# This guy doesn't know shit about git
 learning git, so yeah....
